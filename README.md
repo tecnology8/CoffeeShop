@@ -1,3 +1,4 @@
 # CoffeeShop
 
-(https://github.com/tecnology8/CoffeeShop/blob/master/CoffeeShop/Resources/Images/Screenshot.png)
+[![Screenshot.png](https://i.postimg.cc/8PVJn3HP/Screenshot.png)](https://postimg.cc/s1wgMTqt)
+
